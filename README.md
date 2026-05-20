@@ -31,7 +31,7 @@ Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, fo
 ### 📬 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/diego-assun%C3%A7%C3%A3o-4262b8251/" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-assuncao/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
